@@ -1,2 +1,7 @@
 n = int(input())
-for 
+a = []
+for i in range(n):
+    s = input()
+    a.append(s)
+print(a)
+
